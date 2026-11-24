@@ -713,3 +713,5 @@ Other directories of prediction market tools. Some offer paid or featured listin
 ---
 
 Missing a tool, or something here is out of date? Open a PR, or reach out on [X](https://x.com/TalHarelTal) and I'll add or fix it.
+
+- [Chain.Love](https://github.com/Chain-Love/chain-love) — Open-source Web3 infrastructure database for RPCs, indexers, explorers, bridges, wallets and more across networks.
